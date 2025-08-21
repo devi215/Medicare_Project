@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="medicare_test.SignUp"/>
+       <class name="medicare_test.LoginSuccess"/>
+        <class name="medicare_test.LoginFailure"/>
+         <class name="medicare_test.AddToCarT"/>
+          <class name="medicare_test.AddToCartTwo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
