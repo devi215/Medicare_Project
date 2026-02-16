@@ -21,6 +21,6 @@ POM
 
 #Outcome of this Project
 
-User is able to login  online and can add the medicines in the cart and can do checkout
+User is able to login  online and can add the medicines in the cart and can do checkout successfully.
 
 
