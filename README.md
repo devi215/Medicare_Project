@@ -19,4 +19,8 @@ POM
 • Built automation project with Maven for test execution and dependency management.
 • Executed test scripts, analyzed results, logged defects, and supported requirement understanding and test planning.
 
+#Outcome of this Project
+
+User is able to login  online and can add the medicines in the cart and can do checkout
+
 
