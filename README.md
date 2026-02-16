@@ -5,6 +5,8 @@ Technical Details:
 • Automated functional and UI test cases using Selenium WebDriver and TestNG.
 • Built automation project with Maven for test execution and dependency management.
 • Executed test scripts, analyzed results, logged defects, and supported requirement understanding and test planning.
+
+
 #Tools
 
 Selenium Webdriver
